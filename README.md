@@ -81,6 +81,14 @@ Ressalvas metodológicas (obrigatórias):
 - Não deve ser interpretado como diagnóstico individual, comprovação de necessidade socioeconômica, medida de demanda observada nem prova de causalidade.
 - Para decisões individuais, recomenda-se verificação e avaliação socioeconômica complementar.
 
+## Principais resultados
+
+- Caracterização do perfil discente do Campus I da UFPB;
+- Identificação de grupos com maior demanda potencial por assistência;
+- Construção do indicador de Demanda Potencial Não Atendida (IDPNA);
+- Análises por curso, centro, turno, raça e sexo;
+- Dashboard interativo para exploração dos resultados.
+
 ## Metodologia (resumo)
 
 - Extração: células SQL e consultas presentes em notebooks (01_extracao_sedap.ipynb).
